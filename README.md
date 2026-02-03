@@ -31,6 +31,9 @@ Arianna Arruzzoli
 Benedetta Bottari
 Milena Mazza
 
+## 🎓 Academic Context
+Academic Year **2023/2024** - University of Bologna
+
 ## 📜 License
 License CC BY-NC-SA 4.0
 
