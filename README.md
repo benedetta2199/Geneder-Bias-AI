@@ -1,4 +1,4 @@
-# Project Title: Trix-Gender-Bias
+# Gender Bias AI and LLM
 
 ## 🔍 Overview
 Over the past few decades, artificial intelligence and Large Language Models (LLMs) have transformed the technological landscape, raising questions about the capabilities and limitations of these entities. Although conceived as immune to human bias, studies show that AIs tend to reflect gender stereotypes present in society. This study investigates whether LLMs are able to recognize and correct such biases, focusing on the context of gender biases within the italian language. By collecting and quantifying gender-specific biases in the italian language, the work aims to develop a quantitative methodology to evaluate whether AIs are able to understand and perceive biases human-like.
